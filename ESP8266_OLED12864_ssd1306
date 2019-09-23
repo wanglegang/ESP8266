@@ -37,3 +37,4 @@ void loop()
   delay(2000);
   display.clear();//清除显示
 }
+
